@@ -4,6 +4,4 @@
 
 ### Лямбда-выражения и функциональные интерфейсы
 
-[Работяга](https://github.com/ilk07/Worker/tree/main/src)
-
-
+[Задача 2. Работяга](https://github.com/ilk07/Worker/tree/main/src)
